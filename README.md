@@ -1,4 +1,4 @@
-### Welcome!
+# Welcome!
 
 📍 Montreal, Quebec
 📧 nastasiakantsevitch@gmail.com
@@ -9,9 +9,9 @@ I'm a passionate data enthusiast with a keen interest in data science and analys
 
 ## Education 🎓
 
-# Data Science Dimploma
+### Data Science Dimploma
 Concordia University, Continuing Education
-# Bachelors in Internation Business, with a minor in Accounting
+### Bachelors in Internation Business, with a minor in Accounting
 John Molson School of Business, Concordia Univerity
 
 ## Passions 🌷
