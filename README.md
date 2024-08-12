@@ -1,6 +1,7 @@
 # Welcome!
 
 📍 Montreal, Quebec
+
 📧 nastasiakantsevitch@gmail.com
 
 ## About Me 👓
